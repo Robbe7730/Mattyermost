@@ -1,0 +1,5 @@
+[mattermost]
+
+token = abc123
+url = https://mattermost.example.com/api
+
