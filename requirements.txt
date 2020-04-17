@@ -1,0 +1,7 @@
+certifi==2020.4.5.1
+chardet==3.0.4
+idna==2.9
+mattermost==5.21.4
+requests==2.23.0
+urllib3==1.25.9
+websockets==8.1
